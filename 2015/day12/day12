@@ -1,0 +1,12 @@
+#!/bin/bash
+jq '[.. | numbers] | add' <input.txt
+jq 'walk(
+  if type == "object" then
+    if any(.[]; . == "red") then
+      empty
+    else
+      .
+    end
+  else
+    .
+  end) | [.. | numbers] | add' <input.txt
