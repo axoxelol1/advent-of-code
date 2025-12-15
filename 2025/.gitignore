@@ -1,0 +1,6 @@
+*.txt
+.clangd
+.clang-format
+main
+*.dSYM
+.DS_Store
