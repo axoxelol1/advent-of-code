@@ -12,3 +12,5 @@
 - Day 10: Common Lisp
 - Day 11: C++
 - Day 12: jq
+- Day 13: Haskell
+- Day 14: Google sheets
