@@ -14,3 +14,4 @@
 - Day 12: jq
 - Day 13: Haskell
 - Day 14: Google sheets
+- Day 15: Elixir
