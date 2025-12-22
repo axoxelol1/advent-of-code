@@ -17,3 +17,4 @@
 - Day 15: Elixir
 - Day 16: Uiua
 - Day 17: Zig
+- Day 18: Lua
