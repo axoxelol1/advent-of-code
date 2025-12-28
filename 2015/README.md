@@ -18,3 +18,4 @@
 - Day 16: Uiua
 - Day 17: Zig
 - Day 18: Lua
+- Day 19: Swift
