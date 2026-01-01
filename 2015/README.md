@@ -20,3 +20,5 @@
 - Day 18: Lua
 - Day 19: Swift
 - Day 20: Java
+- Day 21: C#
+- Day 22: Rust
