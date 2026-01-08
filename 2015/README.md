@@ -23,3 +23,5 @@
 - Day 21: C#
 - Day 22: Rust
 - Day 23: Assembly (arm64 apple)
+- Day 24: Julia
+- Day 25: Bash
